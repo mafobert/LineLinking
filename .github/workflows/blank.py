@@ -13,7 +13,7 @@ arcpy.env.workspace = "C:/Users/mfobert/Desktop/Manic"
 
 # assign values to link distance and azimuth thresholds (also patches)
 d_link = 10000			#metres 
-d_width = 3000?			#(metres) orthogonal to the line
+d_width = 3000			#(metres) orthogonal to the line
 az_thres = 35			#degrees (+/-)
 overlap = 12000			#overlap in metres between moving kernelx
 k_width = 40000			#kernelx width
