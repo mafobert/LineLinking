@@ -5,7 +5,7 @@
 # shapefile must contain the following fields in the following order:
 # FID, Shape, Cat, Azimuth, xstart, ystart, xend, yend
 
-##### For CURVILINEAR - connect lines from start to end (add on, don't create new line) ######
+##### For CURVILINEAR - connect lines from start to end (add on, don't create new line) #######
 
 #import arcpy
 import math
